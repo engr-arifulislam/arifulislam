@@ -3599,3 +3599,8 @@ body, html {
   .rating{
     text-align: justify;
   }
+@media (max-width: 992px) {
+    .nav_icon{
+      display: none !important;
+    }
+  }
